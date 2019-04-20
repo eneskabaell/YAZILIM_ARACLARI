@@ -1,0 +1,5 @@
+language : java
+sudo : false
+script : "maven ders6yazilimaraclari/pom.xml clean install"
+jdk:
+   - oraclejdk8
