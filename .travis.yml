@@ -1,5 +1,5 @@
 language : java
 sudo : false
-script : "mvn ders6yazilimaraclari/pom.xml clean install"
+script : "mvn clean install"
 jdk:
    - oraclejdk8
